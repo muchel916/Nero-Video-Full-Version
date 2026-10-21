@@ -239,4 +239,4 @@ This repository serves as the official landing page for Nero Video. The software
 **Get the most recent version of Nero Video today!**
 
 ---
-**Last updated:** 2026-10-21 06:42:32 UTC
+**Last updated:** 2026-10-21 12:31:07 UTC
